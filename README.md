@@ -1,7 +1,7 @@
 
 # LENGUAGE PYTHON
 
-### Primero se debe utilizar en el cmd el comando pip instal selenium para instalar las dependencias ***es obligatorio hacer este paso***
+### Primero se debe utilizar en el cmd el comando pip install selenium para instalar las dependencias ***es obligatorio hacer este paso***
 
 ### ***Una vez intalado se pueden usar las dependencias de Selenium***
 
