@@ -2,7 +2,7 @@
 
 LENGUAGE PYTHON
 
-###primero se debe utilizar en el cmd el comando pip instal selenium para instalar las dependencias ***es obligatorio hacer este paso***
+### Primero se debe utilizar en el cmd el comando pip instal selenium para instalar las dependencias ***es obligatorio hacer este paso***
 Para estos navegadores se requiere la instalación de algunos controladores que permitan la interacción entre Selenium
 y el navegador elegido. Para efectos del proyecto nos centraremos en Chrome.
 En python se debe importar el Selenium WebDriver (from selenium import webdriver). Ya se decía que se va utilizar Chrome
