@@ -1,9 +1,9 @@
 
-LENGUAGE PYTHON
+# LENGUAGE PYTHON
 
 ### Primero se debe utilizar en el cmd el comando pip instal selenium para instalar las dependencias ***es obligatorio hacer este paso***
 
-***una vez intalado se pueden usar las dependencias de Selenium ***
+### ***Una vez intalado se pueden usar las dependencias de Selenium***
 
 En python se debe importar el Selenium WebDriver (from selenium import webdriver). Ya se decía que se va utilizar Chrome
 es por ello que se debe descargar el "Web driver" de Chrome. Hay distintos enlaces de descarga, eso varía según la versión
@@ -15,8 +15,10 @@ Otro componente que se necesita es el "bindings" de Python. La versión 3.7 y la
 estándar el "pip", este puede ser utilizado para instalar el paquete de selenio requerido. El mismo se puede instalar utilizando
 las siguientes líneas de código:
 
-***-pip install selenium
--instalar python setup.py***
+***-pip install selenium***
+
+
+***-instalar python setup.py***
 
 Otra opción de obtener este componente es directamente desde la página de Pypl para el paquete de selenium, sin embargo, no es tan
 recomendado como obtenerlo directamente con el pip.
